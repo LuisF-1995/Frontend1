@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+}
+
+body{
+    background-image: url('../imagenes/imagen_relax.jpg');
+    background-size: cover;
+}
+
+[src*="foto"]{
+    width: 100px;
+}
+
+[href*="sobre_mi"]{
+    font-size: 20px;
+    display: block;
+}
+
+
